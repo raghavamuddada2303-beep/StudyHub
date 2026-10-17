@@ -1,0 +1,330 @@
+{
+  "department": "mining",
+  "semester": 2,
+  "status": "demo_seed_data",
+  "note": "DEMO DATA for frontend demonstration. Subject lists and unit outlines are representative examples, not verified NIT Raipur curriculum. Notes and YouTube buttons open live search results, not pre-verified individual resources. Replace with reviewed links before production.",
+  "source_ids": [],
+  "scheme": "demo-representative",
+  "subjects": [
+    {
+      "id": "mining-s2-1",
+      "code": "DEMO-MINING-201",
+      "name": "Engineering Mathematics II",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Fundamentals and classification",
+          "syllabus": [
+            "Fundamentals and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20II%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20II%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Equipment, methods and calculations",
+          "syllabus": [
+            "Equipment, methods and calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20II%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20II%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Design, planning and operational practices",
+          "syllabus": [
+            "Design, planning and operational practices: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20II%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20II%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Safety, environment and case studies",
+          "syllabus": [
+            "Safety, environment and case studies: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20II%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20II%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "mining-s2-2",
+      "code": "DEMO-MINING-202",
+      "name": "Basic Electrical Engineering",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Fundamentals and classification",
+          "syllabus": [
+            "Fundamentals and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Basic%20Electrical%20Engineering%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Basic%20Electrical%20Engineering%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Equipment, methods and calculations",
+          "syllabus": [
+            "Equipment, methods and calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Basic%20Electrical%20Engineering%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Basic%20Electrical%20Engineering%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Design, planning and operational practices",
+          "syllabus": [
+            "Design, planning and operational practices: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Basic%20Electrical%20Engineering%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Basic%20Electrical%20Engineering%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Safety, environment and case studies",
+          "syllabus": [
+            "Safety, environment and case studies: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Basic%20Electrical%20Engineering%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Basic%20Electrical%20Engineering%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "mining-s2-3",
+      "code": "DEMO-MINING-203",
+      "name": "Engineering Mechanics",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Fundamentals and classification",
+          "syllabus": [
+            "Fundamentals and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mechanics%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mechanics%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Equipment, methods and calculations",
+          "syllabus": [
+            "Equipment, methods and calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mechanics%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mechanics%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Design, planning and operational practices",
+          "syllabus": [
+            "Design, planning and operational practices: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mechanics%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mechanics%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Safety, environment and case studies",
+          "syllabus": [
+            "Safety, environment and case studies: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mechanics%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mechanics%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "mining-s2-4",
+      "code": "DEMO-MINING-204",
+      "name": "Communication Skills",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Fundamentals and classification",
+          "syllabus": [
+            "Fundamentals and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Communication%20Skills%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Communication%20Skills%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Equipment, methods and calculations",
+          "syllabus": [
+            "Equipment, methods and calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Communication%20Skills%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Communication%20Skills%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Design, planning and operational practices",
+          "syllabus": [
+            "Design, planning and operational practices: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Communication%20Skills%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Communication%20Skills%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Safety, environment and case studies",
+          "syllabus": [
+            "Safety, environment and case studies: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Communication%20Skills%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Communication%20Skills%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    }
+  ]
+}

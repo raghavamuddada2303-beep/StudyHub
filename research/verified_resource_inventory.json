@@ -1,0 +1,182 @@
+{
+  "researchDate": "2026-10-17",
+  "scope": "Initial verified source discovery for IT semesters III-IV; not yet mapped to every unit in the app JSON.",
+  "officialSyllabusSources": [
+    {
+      "id": "S9",
+      "title": "NIT Raipur IT B.Tech Semester III CBCS scheme",
+      "url": "https://nitrr.ac.in/downloads/syl_new/Arch/cbcs/newCBCS/3rd%20sem%20Scheme.pdf",
+      "type": "official_scheme_pdf",
+      "verifiedFacts": [
+        "Search-indexed PDF identifies Branch: IT (Information Technology), B.Tech 3rd Semester.",
+        "Subject list includes IT103101IT Discrete Structures, IT103102IT Digital Electronics & Logic Design, IT103103IT Object Oriented Methodology, IT103104IT Communication Systems, IT103105IT Operating System, and IT103003MA Mathematics-III (Computational Mathematics)."
+      ],
+      "applicability": "Official NIT Raipur scheme found; batch applicability not stated in accessible search extract.",
+      "accessStatus": "Search-indexed content reviewed; PDF not downloaded directly in this environment."
+    },
+    {
+      "id": "S10",
+      "title": "NIT Raipur IT B.Tech Semester III CBCS syllabus",
+      "url": "https://nitrr.ac.in/downloads/syl_new/Arch/cbcs/newCBCS/3rd%20sem%20Syllabus.pdf",
+      "type": "official_syllabus_pdf",
+      "verifiedFacts": [
+        "Search-indexed content identifies IT103101IT Discrete Structures for B.Tech IT Semester III.",
+        "Indexed unit content includes mathematical logic/Boolean algebra, set theory/relations/functions/algebraic structures, graph theory, and combinatorics/probability."
+      ],
+      "applicability": "Official NIT Raipur syllabus source; current batch applicability remains unverified.",
+      "accessStatus": "Search-indexed content reviewed; full PDF not downloaded directly in this environment."
+    },
+    {
+      "id": "S11",
+      "title": "NIT Raipur IT B.Tech Semester IV syllabus (legacy course IT 401)",
+      "url": "https://nitrr.ac.in/downloads/syl_new/IT/IT4th.pdf",
+      "type": "official_syllabus_pdf",
+      "verifiedFacts": [
+        "Search-indexed PDF contains the full unit outline for Probability, Statistics and Queuing Theory, code IT 401.",
+        "Units cover probability/random variables, probability distributions, multivariate analysis, hypothesis testing, and queuing theory."
+      ],
+      "applicability": "Official document, but version/batch applicability is not stated in the search result; do not assume it matches current cohorts.",
+      "accessStatus": "Search-indexed content reviewed."
+    }
+  ],
+  "learningResourceCandidates": [
+    {
+      "id": "R1",
+      "subjectMatch": "Computational Mathematics / numerical methods",
+      "title": "NPTEL: Numerical Methods",
+      "url": "https://nptel.ac.in/courses/111107105",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes nonlinear equation roots, linear systems, interpolation, numerical differentiation/integration, and ODE numerical methods.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R2",
+      "subjectMatch": "Data Structures",
+      "title": "NPTEL: Data Structures and Algorithms, IIT Delhi",
+      "url": "https://nptel.ac.in/courses/106102064",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline explicitly includes stacks, queues, linked lists, hashing, trees, sorting, graphs, and graph algorithms.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R3",
+      "subjectMatch": "Data Structures",
+      "title": "NPTEL Lecture 1: Introduction to Data Structures and Algorithms",
+      "url": "https://www.youtube.com/watch?v=zWg7U0OEAoE",
+      "resourceType": "youtube_video",
+      "match": "partial_match",
+      "evidence": "Search result identifies this as a verified NPTELHRD lecture by Dr. Naveen Garg, IIT Delhi, from the Data Structures and Algorithms lecture series.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": true
+    },
+    {
+      "id": "R4",
+      "subjectMatch": "Object Oriented Methodology / OOP",
+      "title": "NPTEL: Object Oriented Programming",
+      "url": "https://nptel.ac.in/courses/106107574",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes classes/objects, constructors, inheritance, polymorphism, and related OOP topics.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R5",
+      "subjectMatch": "Digital Electronics and Logic Design",
+      "title": "NPTEL: Digital Circuits, IIT Kharagpur",
+      "url": "https://nptel.ac.in/courses/108105113",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes number systems, combinational and sequential circuits, semiconductor memories, and microprocessors.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R6",
+      "subjectMatch": "Discrete Structures / Graph Theory",
+      "title": "NPTEL: Graph Theory, IISER Pune",
+      "url": "https://nptel.ac.in/courses/111106102",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes graph theory, colouring, planar graphs, and Euler's formula.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R7",
+      "subjectMatch": "Discrete Structures / logic, sets, relations, combinatorics",
+      "title": "NPTEL: Discrete Mathematics, Chennai Mathematical Institute",
+      "url": "https://nptel.ac.in/courses/111106086",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes combinatorics, graph theory, recurrence relations, and related discrete mathematics topics.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R8",
+      "subjectMatch": "Computer Organization",
+      "title": "NPTEL: Computer Organization, IIT Madras",
+      "url": "https://nptel.ac.in/courses/106106092",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes datapath/controller design, memory systems, cache, virtual memory, I/O, and buses.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R9",
+      "subjectMatch": "Theory of Computation",
+      "title": "NPTEL: Theory of Computation, IIT Kanpur",
+      "url": "https://nptel.ac.in/courses/106104148",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes regular/context-free languages, decidability, undecidability, reductions, and complexity.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R10",
+      "subjectMatch": "Operating Systems",
+      "title": "NPTEL: Operating System Fundamentals, IIT Kharagpur",
+      "url": "https://nptel.ac.in/courses/106105214",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes virtual memory, file systems, processes, and OS fundamentals.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R11",
+      "subjectMatch": "Probability, Statistics and Queuing Theory",
+      "title": "NPTEL: Introduction to Probability Theory and Stochastic Processes, IIT Delhi",
+      "url": "https://nptel.ac.in/courses/111102111",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline explicitly includes queueing models, M/M/1, M/M/c, finite-capacity queues, and probability processes.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    },
+    {
+      "id": "R12",
+      "subjectMatch": "Basic Electronics",
+      "title": "NPTEL: Basic Electronics, IIT Guwahati",
+      "url": "https://nptel.ac.in/courses/117103063",
+      "resourceType": "course_page_with_video_lectures",
+      "match": "partial_match",
+      "evidence": "Course outline includes semiconductor diodes, BJTs, MOSFETs, op-amps, amplifiers, and regulated power supplies.",
+      "notesPdfVerified": false,
+      "youtubeUrlVerified": false
+    }
+  ],
+  "limitations": [
+    "These course pages are useful video-learning candidates, but they are not automatically downloadable unit notes PDFs.",
+    "Only one direct YouTube video URL was verified in this pass; course pages were not mislabelled as YouTube links.",
+    "Resources have not yet been assigned to every unit in the app's semester JSON files.",
+    "Official NIT Raipur documents were identified through search-indexed content, but direct download was unavailable in this environment; cohort applicability remains unverified."
+  ]
+}

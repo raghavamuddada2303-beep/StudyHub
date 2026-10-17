@@ -1,0 +1,250 @@
+{
+  "department": "it",
+  "semester": 6,
+  "status": "demo_seed_data",
+  "note": "DEMO DATA for frontend demonstration. Subject lists and unit outlines are representative examples, not verified NIT Raipur curriculum. Notes and YouTube buttons open live search results, not pre-verified individual resources. Replace with reviewed links before production.",
+  "source_ids": [],
+  "scheme": "demo-representative",
+  "subjects": [
+    {
+      "id": "it-s6-1",
+      "code": "DEMO-IT-601",
+      "name": "Web Technology",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Core concepts and terminology",
+          "syllabus": [
+            "Core concepts and terminology: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Web%20Technology%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Web%20Technology%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Algorithms, models and design methods",
+          "syllabus": [
+            "Algorithms, models and design methods: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Web%20Technology%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Web%20Technology%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Implementation, analysis and testing",
+          "syllabus": [
+            "Implementation, analysis and testing: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Web%20Technology%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Web%20Technology%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Applications, security and emerging trends",
+          "syllabus": [
+            "Applications, security and emerging trends: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Web%20Technology%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Web%20Technology%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-s6-2",
+      "code": "DEMO-IT-602",
+      "name": "Compiler Design",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Core concepts and terminology",
+          "syllabus": [
+            "Core concepts and terminology: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Compiler%20Design%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Compiler%20Design%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Algorithms, models and design methods",
+          "syllabus": [
+            "Algorithms, models and design methods: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Compiler%20Design%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Compiler%20Design%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Implementation, analysis and testing",
+          "syllabus": [
+            "Implementation, analysis and testing: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Compiler%20Design%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Compiler%20Design%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Applications, security and emerging trends",
+          "syllabus": [
+            "Applications, security and emerging trends: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Compiler%20Design%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Compiler%20Design%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-s6-3",
+      "code": "DEMO-IT-603",
+      "name": "Machine Learning",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Data preparation and model evaluation",
+          "syllabus": [
+            "Data preparation and model evaluation: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Machine%20Learning%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Machine%20Learning%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Regression and classification",
+          "syllabus": [
+            "Regression and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Machine%20Learning%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Machine%20Learning%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Clustering and dimensionality reduction",
+          "syllabus": [
+            "Clustering and dimensionality reduction: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Machine%20Learning%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Machine%20Learning%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Neural networks and model tuning",
+          "syllabus": [
+            "Neural networks and model tuning: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Machine%20Learning%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Machine%20Learning%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    }
+  ]
+}

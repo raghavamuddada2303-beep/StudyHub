@@ -1,0 +1,330 @@
+{
+  "department": "civil",
+  "semester": 1,
+  "status": "demo_seed_data",
+  "note": "DEMO DATA for frontend demonstration. Subject lists and unit outlines are representative examples, not verified NIT Raipur curriculum. Notes and YouTube buttons open live search results, not pre-verified individual resources. Replace with reviewed links before production.",
+  "source_ids": [],
+  "scheme": "demo-representative",
+  "subjects": [
+    {
+      "id": "civil-s1-1",
+      "code": "DEMO-CIVIL-101",
+      "name": "Engineering Mathematics I",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Basic principles and material properties",
+          "syllabus": [
+            "Basic principles and material properties: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20I%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20I%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Analysis methods and design calculations",
+          "syllabus": [
+            "Analysis methods and design calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20I%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20I%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Engineering applications and standards",
+          "syllabus": [
+            "Engineering applications and standards: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20I%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20I%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Case studies, sustainability and practice",
+          "syllabus": [
+            "Case studies, sustainability and practice: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Mathematics%20I%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20I%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "civil-s1-2",
+      "code": "DEMO-CIVIL-102",
+      "name": "Engineering Physics",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Basic principles and material properties",
+          "syllabus": [
+            "Basic principles and material properties: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Physics%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Physics%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Analysis methods and design calculations",
+          "syllabus": [
+            "Analysis methods and design calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Physics%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Physics%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Engineering applications and standards",
+          "syllabus": [
+            "Engineering applications and standards: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Physics%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Physics%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Case studies, sustainability and practice",
+          "syllabus": [
+            "Case studies, sustainability and practice: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Physics%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Physics%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "civil-s1-3",
+      "code": "DEMO-CIVIL-103",
+      "name": "Engineering Chemistry",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Basic principles and material properties",
+          "syllabus": [
+            "Basic principles and material properties: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Chemistry%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Chemistry%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Analysis methods and design calculations",
+          "syllabus": [
+            "Analysis methods and design calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Chemistry%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Chemistry%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Engineering applications and standards",
+          "syllabus": [
+            "Engineering applications and standards: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Chemistry%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Chemistry%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Case studies, sustainability and practice",
+          "syllabus": [
+            "Case studies, sustainability and practice: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Engineering%20Chemistry%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Engineering%20Chemistry%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "civil-s1-4",
+      "code": "DEMO-CIVIL-104",
+      "name": "Programming Fundamentals",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Basic principles and material properties",
+          "syllabus": [
+            "Basic principles and material properties: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Programming%20Fundamentals%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Programming%20Fundamentals%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Analysis methods and design calculations",
+          "syllabus": [
+            "Analysis methods and design calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Programming%20Fundamentals%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Programming%20Fundamentals%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Engineering applications and standards",
+          "syllabus": [
+            "Engineering applications and standards: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Programming%20Fundamentals%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Programming%20Fundamentals%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Case studies, sustainability and practice",
+          "syllabus": [
+            "Case studies, sustainability and practice: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Programming%20Fundamentals%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Programming%20Fundamentals%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    }
+  ]
+}

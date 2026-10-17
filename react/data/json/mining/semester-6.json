@@ -1,0 +1,250 @@
+{
+  "department": "mining",
+  "semester": 6,
+  "status": "demo_seed_data",
+  "note": "DEMO DATA for frontend demonstration. Subject lists and unit outlines are representative examples, not verified NIT Raipur curriculum. Notes and YouTube buttons open live search results, not pre-verified individual resources. Replace with reviewed links before production.",
+  "source_ids": [],
+  "scheme": "demo-representative",
+  "subjects": [
+    {
+      "id": "mining-s6-1",
+      "code": "DEMO-MINING-601",
+      "name": "Mine Environmental Engineering",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Fundamentals and classification",
+          "syllabus": [
+            "Fundamentals and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Environmental%20Engineering%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Environmental%20Engineering%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Equipment, methods and calculations",
+          "syllabus": [
+            "Equipment, methods and calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Environmental%20Engineering%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Environmental%20Engineering%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Design, planning and operational practices",
+          "syllabus": [
+            "Design, planning and operational practices: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Environmental%20Engineering%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Environmental%20Engineering%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Safety, environment and case studies",
+          "syllabus": [
+            "Safety, environment and case studies: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Environmental%20Engineering%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Environmental%20Engineering%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "mining-s6-2",
+      "code": "DEMO-MINING-602",
+      "name": "Mine Safety",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Fundamentals and classification",
+          "syllabus": [
+            "Fundamentals and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Safety%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Safety%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Equipment, methods and calculations",
+          "syllabus": [
+            "Equipment, methods and calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Safety%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Safety%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Design, planning and operational practices",
+          "syllabus": [
+            "Design, planning and operational practices: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Safety%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Safety%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Safety, environment and case studies",
+          "syllabus": [
+            "Safety, environment and case studies: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Mine%20Safety%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Mine%20Safety%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "mining-s6-3",
+      "code": "DEMO-MINING-603",
+      "name": "Drilling and Blasting",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Fundamentals and classification",
+          "syllabus": [
+            "Fundamentals and classification: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Drilling%20and%20Blasting%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Drilling%20and%20Blasting%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Equipment, methods and calculations",
+          "syllabus": [
+            "Equipment, methods and calculations: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Drilling%20and%20Blasting%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Drilling%20and%20Blasting%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Design, planning and operational practices",
+          "syllabus": [
+            "Design, planning and operational practices: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Drilling%20and%20Blasting%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Drilling%20and%20Blasting%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Safety, environment and case studies",
+          "syllabus": [
+            "Safety, environment and case studies: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Drilling%20and%20Blasting%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Drilling%20and%20Blasting%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    }
+  ]
+}

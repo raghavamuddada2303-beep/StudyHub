@@ -1,0 +1,250 @@
+{
+  "department": "cse",
+  "semester": 4,
+  "status": "demo_seed_data",
+  "note": "DEMO DATA for frontend demonstration. Subject lists and unit outlines are representative examples, not verified NIT Raipur curriculum. Notes and YouTube buttons open live search results, not pre-verified individual resources. Replace with reviewed links before production.",
+  "source_ids": [],
+  "scheme": "demo-representative",
+  "subjects": [
+    {
+      "id": "cse-s4-1",
+      "code": "DEMO-CSE-401",
+      "name": "Database Management Systems",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Database concepts and ER modelling",
+          "syllabus": [
+            "Database concepts and ER modelling: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Database%20Management%20Systems%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Database%20Management%20Systems%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Relational model and SQL",
+          "syllabus": [
+            "Relational model and SQL: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Database%20Management%20Systems%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Database%20Management%20Systems%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Normalization and transactions",
+          "syllabus": [
+            "Normalization and transactions: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Database%20Management%20Systems%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Database%20Management%20Systems%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Indexing and query processing",
+          "syllabus": [
+            "Indexing and query processing: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Database%20Management%20Systems%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Database%20Management%20Systems%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "cse-s4-2",
+      "code": "DEMO-CSE-402",
+      "name": "Operating Systems",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Processes and threads",
+          "syllabus": [
+            "Processes and threads: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Operating%20Systems%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Operating%20Systems%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "CPU scheduling and synchronization",
+          "syllabus": [
+            "CPU scheduling and synchronization: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Operating%20Systems%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Operating%20Systems%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Deadlocks and memory management",
+          "syllabus": [
+            "Deadlocks and memory management: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Operating%20Systems%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Operating%20Systems%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "File systems and I/O",
+          "syllabus": [
+            "File systems and I/O: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Operating%20Systems%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Operating%20Systems%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "cse-s4-3",
+      "code": "DEMO-CSE-403",
+      "name": "Object Oriented Programming",
+      "credits": 3,
+      "units": [
+        {
+          "number": 1,
+          "title": "Classes and objects",
+          "syllabus": [
+            "Classes and objects: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Object%20Oriented%20Programming%20unit%201%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Object%20Oriented%20Programming%20unit%201%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 2,
+          "title": "Inheritance and polymorphism",
+          "syllabus": [
+            "Inheritance and polymorphism: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Object%20Oriented%20Programming%20unit%202%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Object%20Oriented%20Programming%20unit%202%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 3,
+          "title": "Abstraction and interfaces",
+          "syllabus": [
+            "Abstraction and interfaces: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Object%20Oriented%20Programming%20unit%203%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Object%20Oriented%20Programming%20unit%203%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        },
+        {
+          "number": 4,
+          "title": "Exceptions and file handling",
+          "syllabus": [
+            "Exceptions and file handling: key concepts, terminology, worked examples and applications."
+          ],
+          "syllabus_status": "demo_illustrative",
+          "notes": {
+            "url": "https://www.google.com/search?q=Object%20Oriented%20Programming%20unit%204%20notes%20PDF%20lecture%20notes%20engineering",
+            "match": "search_link",
+            "researched": false
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/results?search_query=Object%20Oriented%20Programming%20unit%204%20full%20lecture%20playlist",
+            "match": "search_link",
+            "researched": false
+          }
+        }
+      ]
+    }
+  ]
+}

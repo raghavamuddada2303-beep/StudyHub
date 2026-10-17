@@ -1,0 +1,98 @@
+{
+  "S1": {
+    "title": "Scheme and Detailed Syllabus, B.Tech Information Technology (legacy)",
+    "url": "https://nitrr.ac.in/downloads/syllabus/it/IT%20Syllabus%20NIT%20Scheme.pdf",
+    "version": "Cover page: 'applicable for batches admitted from July, 2010 onwards'",
+    "applicability": "IT, Semesters III-VIII (legacy NIT scheme, codes IT 301-IT 8xx)",
+    "access": "OPENED AND READ (Sem III-VII in full; Sem VIII cut off by the reader)",
+    "currency": "UNVERIFIED. Newer CBCS documents exist (S7, S8) and their snippets show different IT subjects, so this is probably superseded for later batches."
+  },
+  "S2": {
+    "title": "NIT Raipur 'Scheme and Syllabus' index page",
+    "url": "https://nitrr.ac.in/syllabus.php",
+    "version": "n/a",
+    "applicability": "Index of scheme/syllabus links for all programmes",
+    "access": "Seen only as a search snippet; automated fetch is blocked by the site (robots).",
+    "currency": "Unknown"
+  },
+  "S3": {
+    "title": "Scheme for First Year (B.Tech/B.Arch), codes like MA10I001MA",
+    "url": "https://www.nitrr.ac.in/downloads/syl_new/1_Syllabus.pdf",
+    "version": "Not stated in the snippet",
+    "applicability": "Semesters 1 and 2 (first-year courses; branch/group mapping unverified)",
+    "access": "LOCATED, NOT READABLE: automated fetch blocked; only search snippets seen.",
+    "currency": "Unknown, but it uses the newer course-code format"
+  },
+  "S4": {
+    "title": "CSE 3rd semester scheme and syllabus ('NIT Scheme', codes like CS20313(CS))",
+    "url": "https://nitrr.ac.in/downloads/syl_new/CSE/3rd%20sem.pdf",
+    "version": "Not stated in the snippet",
+    "applicability": "CSE Semester III (applicability to current batches unverified)",
+    "access": "LOCATED, NOT READABLE: fetch blocked; snippets only.",
+    "currency": "Unknown; code format looks older than the first-year scheme"
+  },
+  "S4b": {
+    "title": "CSE 7th semester syllabus ('NIT Scheme')",
+    "url": "https://nitrr.ac.in/downloads/syl_new/CSE/7th%20sem.pdf",
+    "version": "Not stated",
+    "applicability": "CSE Semester VII",
+    "access": "LOCATED, NOT READABLE: fetch blocked; snippets only.",
+    "currency": "Unknown"
+  },
+  "S5": {
+    "title": "Biotechnology Semester 4 scheme and syllabus",
+    "url": "https://nitrr.ac.in/downloads/syl_new/BT/BIOTECH_Sem4.pdf",
+    "version": "Not stated",
+    "applicability": "Biotechnology Semester IV",
+    "access": "LOCATED, NOT READABLE: fetch blocked; snippets only.",
+    "currency": "Unknown"
+  },
+  "S6": {
+    "title": "Mechanical Engineering VIth Semester Scheme and Syllabus (CBCS)",
+    "url": "https://nitrr.ac.in/downloads/syl_new/MECH/new_cbcs/VIth%20Semester%20Scheme%20and%20Syllabus.pdf",
+    "version": "Not stated",
+    "applicability": "Mechanical Semester VI",
+    "access": "LOCATED, NOT READABLE: fetch blocked; snippets only.",
+    "currency": "Unknown"
+  },
+  "S7": {
+    "title": "Complete syllabus 6th semester CBCS (dated 02 June 2021 in file name)",
+    "url": "https://nitrr.ac.in/downloads/syl_new/Arch/cbcs/newCBCS/Complete%20syllabus%206th%20semester%20CBCS_02%20June%202021.pdf",
+    "version": "File name dated 02 June 2021",
+    "applicability": "Multi-branch compilation; IT content seen in snippet; other branches unverified",
+    "access": "LOCATED, NOT READABLE: fetch blocked; snippets only.",
+    "currency": "Unknown"
+  },
+  "S8": {
+    "title": "4th sem Syllabus (CBCS compilation)",
+    "url": "https://nitrr.ac.in/downloads/syl_new/Arch/cbcs/newCBCS/4th%20sem%20Syllabus.pdf",
+    "version": "Not stated",
+    "applicability": "Multi-branch compilation; IT-style content seen in snippet; other branches unverified",
+    "access": "LOCATED, NOT READABLE: fetch blocked; snippets only.",
+    "currency": "Unknown"
+  },
+  "S9": {
+    "title": "NIT Raipur IT B.Tech Semester III CBCS scheme",
+    "url": "https://nitrr.ac.in/downloads/syl_new/Arch/cbcs/newCBCS/3rd%20sem%20Scheme.pdf",
+    "version": "Not stated in accessible extract",
+    "applicability": "IT B.Tech Semester III; batch applicability unverified",
+    "access": "Search-indexed PDF content reviewed; direct download unavailable in this environment",
+    "currency": "Likely a newer CBCS scheme than legacy S1; verify against the student batch before use."
+  },
+  "S10": {
+    "title": "NIT Raipur IT B.Tech Semester III CBCS syllabus",
+    "url": "https://nitrr.ac.in/downloads/syl_new/Arch/cbcs/newCBCS/3rd%20sem%20Syllabus.pdf",
+    "version": "Not stated in accessible extract",
+    "applicability": "IT B.Tech Semester III; batch applicability unverified",
+    "access": "Search-indexed content reviewed; direct download unavailable in this environment",
+    "currency": "Newer CBCS-style course codes visible; full syllabus transcription still required."
+  },
+  "S11": {
+    "title": "NIT Raipur IT B.Tech Semester IV syllabus: Probability, Statistics and Queuing Theory (IT 401)",
+    "url": "https://nitrr.ac.in/downloads/syl_new/IT/IT4th.pdf",
+    "version": "Not stated in accessible extract",
+    "applicability": "IT Semester IV; batch applicability unverified",
+    "access": "Search-indexed full unit outline reviewed",
+    "currency": "Official source, but current cohort applicability is unverified."
+  }
+}
